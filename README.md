@@ -1,5 +1,5 @@
 <header>
-
+Update contents in ci branch step 1 fixing test
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
